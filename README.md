@@ -182,7 +182,7 @@ Provide real-world examples or case studies wherever possible.
 
 Cite any references or sources you use in your answers.
 1) Geek for geeks - Used it for comprehensive explanations and examples of software engineering concepts, SDLC, Agile vs. Waterfall, requirements engineering, modularity in software design, software testing, version control systems, software project management, software maintenance, and ethical considerations.
-2) PLP Gemini ai - Used t for additional insights and explanations related to software engineering and project management.
+2) PLP Gemini ai - Used it for additional insights and explanations related to software engineering and project management.
 3) GPT 3.5 - Used it  for generating initial drafts and providing detailed explanations on software engineering topics.
 4) Perplexity ai - Used it for gathering insights and additional information on various software engineering concepts.
 5) Visual Paradigm - Used it for visual aids and diagrams explaining SDLC, Agile vs. Waterfall, and software design principles.
